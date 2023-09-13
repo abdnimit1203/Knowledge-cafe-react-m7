@@ -1,6 +1,7 @@
 import PropTypes from "prop-types";
 import { FaBookmark } from "react-icons/fa";
 
+
 const Blog = ({ blog, handleAddToBookmark, handleReadTime }) => {
   const {
     cover,
@@ -11,6 +12,10 @@ const Blog = ({ blog, handleAddToBookmark, handleReadTime }) => {
     reading_time,
     hashtags,
   } = blog;
+
+
+
+
 
   return (
     <div className="sm:p-6 mb-6 border-2 shadow-xl hover:bg-yellow-300 rounded-xl">
@@ -60,12 +65,16 @@ const Blog = ({ blog, handleAddToBookmark, handleReadTime }) => {
         </p>
         <button
           onClick={() => handleReadTime(reading_time)}
-          className=" text-purple-600 underline font-semibold hover:text-red-700"
+          className="p-1 text-purple-600 underline font-semibold hover:text-slate-100 hover:bg-purple-600 hover:rounded-lg"
         >
           Mark as read
         </button>
+       
+        
       </div>
     </div>
+
+
   );
 };
 
