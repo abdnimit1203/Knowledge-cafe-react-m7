@@ -18,9 +18,11 @@ const Blogs = () => {
       console.log(bookmarks);
     }
   };
-  const handleReadTime = (time) => {
+  const handleReadTime = (id,time) => {
     const newReadTime = readTime + time;
     setReadTime(newReadTime);
+    const newBookmarks = bookmarks.filter(bookmark=> bookmark.id !== id)
+    setBookmarks(newBookmarks);
   };
 
   useEffect(() => {
@@ -48,7 +50,7 @@ const Blogs = () => {
     <>
       <div className="flex flex-row-reverse gap-3">
         <div className="w-[40%] ">
-          <Bookmarks bookmarks={bookmarks} readTime={readTime}></Bookmarks>
+          <Bookmarks bookmarks={bookmarks} readTime={readTime} handleReadTime={handleReadTime}></Bookmarks>
         </div>
         <div className="w-[60%] sm:w-1/2">
           {blogs.map((blog, i) => (
