@@ -1,0 +1,104 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/bRYpVL8/cover.jpg",
+      "title": "How to get your first job as a self-taught programmer Title 1",
+      "author_img": "https://i.ibb.co/d2Y4dqF/square-profile-dp1.jpg",
+      "author": "John Doe",
+      "posted_date": "2023-09-13",
+      "reading_time": 120,
+      "hashtags": ["fiction", "bestseller", "abd"]
+    },
+    
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/bRYpVL8/cover.jpg",
+      "title": "How to get your first job as a self-taught programmer Title 2",
+      "author_img": "https://i.ibb.co/d2Y4dqF/square-profile-dp1.jpg",
+      "author": "Jane Smith",
+      "posted_date": "2023-09-12",
+      "reading_time": 40,
+      "hashtags": ["fantasy", "adventure"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/bRYpVL8/cover.jpg",
+      "title": "How to get your first job as a self-taught programmer Title 3",
+      "author_img": "https://i.ibb.co/d2Y4dqF/square-profile-dp1.jpg",
+      "author": "Robert Johnson",
+      "posted_date": "2023-09-11",
+      "reading_time": 180,
+      "hashtags": ["romance", "contemporary"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/bRYpVL8/cover.jpg",
+      "title": "How to get your first job as a self-taught programmer Title 4",
+      "author_img": "https://i.ibb.co/d2Y4dqF/square-profile-dp1.jpg",
+      "author": "Sarah Williams",
+      "posted_date": "2023-09-10",
+      "reading_time": 150,
+      "hashtags": ["mystery", "thriller"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/bRYpVL8/cover.jpg",
+      "title": "How to get your first job as a self-taught programmer Title 5",
+      "author_img": "https://i.ibb.co/d2Y4dqF/square-profile-dp1.jpg",
+      "author": "Michael Brown",
+      "posted_date": "2023-09-09",
+      "reading_time": 120,
+      "hashtags": ["science-fiction", "space"]
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/bRYpVL8/cover.jpg",
+      "title": "How to get your first job as a self-taught programmer Title 6",
+      "author_img": "https://i.ibb.co/d2Y4dqF/square-profile-dp1.jpg",
+      "author": "Emily Davis",
+      "posted_date": "2023-09-08",
+      "reading_time": 90,
+      "hashtags": ["historical", "drama"]
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/bRYpVL8/cover.jpg",
+      "title": "How to get your first job as a self-taught programmer Title 7",
+      "author_img": "https://i.ibb.co/d2Y4dqF/square-profile-dp1.jpg",
+      "author": "Daniel Clark",
+      "posted_date": "2023-09-07",
+      "reading_time": 120,
+      "hashtags": ["non-fiction", "educational"]
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/bRYpVL8/cover.jpg",
+      "title": "How to get your first job as a self-taught programmer Title 8",
+      "author_img": "https://i.ibb.co/d2Y4dqF/square-profile-dp1.jpg",
+      "author": "Olivia White",
+      "posted_date": "2023-09-06",
+      "reading_time": 150,
+      "hashtags": ["self-help", "motivation"]
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/bRYpVL8/cover.jpg",
+      "title": "How to get your first job as a self-taught programmer Title 9",
+      "author_img": "https://i.ibb.co/d2Y4dqF/square-profile-dp1.jpg",
+      "author": "Matthew Anderson",
+      "posted_date": "2023-09-05",
+      "reading_time": 180,
+      "hashtags": ["biography", "inspiration"]
+    },
+    {
+      "id": 10,
+      "cover": "https://i.ibb.co/bRYpVL8/cover.jpg",
+      "title": "How to get your first job as a self-taught programmer Title 10",
+      "author_img": "https://i.ibb.co/d2Y4dqF/square-profile-dp1.jpg",
+      "author": "Laura Martin",
+      "posted_date": "2023-09-04",
+      "reading_time": 120,
+      "hashtags": ["fantasy", "magic"]
+    }
+  ]
+  
